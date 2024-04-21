@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d2265eb8683aa3c439b20148a6a875c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kanit ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a2a694e962dce8346be91cde76ceac9c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
